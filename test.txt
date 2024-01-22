@@ -1,3 +1,7 @@
 hello world.
 
+<<<<<<< HEAD
 Happy New Year 2025.
+=======
+Happy New Year 1024.
+>>>>>>> branch 'main' of https://github.com/sachin224099/git_experiment.git
